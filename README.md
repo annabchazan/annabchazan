@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 👋 Olá!! Aqui é a Anna Chazan
 
 Atualmente tenho conhecimentos em
-- C ++
+- C++
 - HTML;
 - CSS;
 - PHP;
 - SQL;
+- PYTHON
 - Gestão de mídias sociais;
 - Marketing pessoal.
 
-⚡ Além disso, estou aprendendo python, javascript e buscando me aperfeiçoar a cada dia mais. 
+⚡ Além disso, estou aprendendo javascript e buscando me aperfeiçoar a cada dia mais. 
